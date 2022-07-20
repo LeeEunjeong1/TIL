@@ -2,7 +2,8 @@
 
 ## Android
 ## Kotlin
-[001 코틀린 스타일 가이드](https://github.com/LeeEunjeong1/TIL/blob/main/Kotlin/001%20Kotlin%20style%20guide.md)
+[001 코틀린 스타일 가이드](https://github.com/LeeEunjeong1/TIL/blob/main/Kotlin/001%20Kotlin%20style%20guide.md)<br>
+[002 안드로이드에서 코틀린을 사용하는 이유](https://github.com/LeeEunjeong1/TIL/blob/main/Kotlin/002%20Reasons%20to%20use%20Kotlin%20on%20Android.md)
 ## Java
 ## Alogrithm
 ## Etc
