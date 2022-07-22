@@ -1,6 +1,8 @@
 # TIL...✏
 
 ## Android
+[001 구글 플레이 콘솔 - 버전 업데이트](https://github.com/LeeEunjeong1/TIL/blob/main/Android/001%20GooglePlayConsole.md)<br>
+[002 ViewBinding & DataBinding](https://github.com/LeeEunjeong1/TIL/blob/main/Android/002%20View%20Binding%20%26%20Data%20Binding.md)
 ## Kotlin
 [001 코틀린 스타일 가이드](https://github.com/LeeEunjeong1/TIL/blob/main/Kotlin/001%20Kotlin%20style%20guide.md)<br>
 [002 안드로이드에서 코틀린을 사용하는 이유](https://github.com/LeeEunjeong1/TIL/blob/main/Kotlin/002%20Reasons%20to%20use%20Kotlin%20on%20Android.md)
