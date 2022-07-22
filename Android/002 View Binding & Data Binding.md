@@ -129,3 +129,7 @@ findViewById()를 호출하여 TextView 위젯을 찾아 viewModel 변수의 use
 - 참고: 대부분의 경우 뷰 결합은 구현은 더 간단하고 성능은 더 우수하면서도 데이터 결합과 동일한 이점을 제공합니다. findViewById() 호출을 대체할 때 주로 데이터 결합을 사용하는 경우 뷰 결합을 대신 사용해 보십시오.
 
 > viewBinding하고 DataBinding 차이가 뭔지 몰랐는데, 나는 그냥 viewBinding만 쓰는 사람이었더랬다. ^^;
+
+참고 : <br>
+https://developer.android.com/topic/libraries/view-binding
+https://developer.android.com/topic/libraries/data-binding
